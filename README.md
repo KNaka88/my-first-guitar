@@ -3,11 +3,11 @@
 ####**By Koji Nakagawa and Carlos Munoz Kampff 1/3/2017**
 
 ##**Description**
-###Buyers guide for beginning musicians, that explains different instrument sizes and styles.
+####Buyers guide for beginning musicians, that explains different instrument sizes and styles.
 
 ##**Setup**
 
-###Clone this repository
+####Clone this repository
 
 ##**Technologies**
 
